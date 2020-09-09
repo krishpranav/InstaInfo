@@ -26,5 +26,6 @@ A simple python tool for getting a information about a instagram user
 
 # HOW TO USE THIS TOOL:
 - python3 instainfo.py -h (for help menu)
-- python3 instainfo.py -u (target username) -p (-p for postscraping)
-- python3 instainfo.py -u (target username) -
+- python3 instainfo.py -u (target username) -p (-p for postscrapping)
+- python3 instainfo.py -u (target username) -s (-s for saving the scraped data)
+- python3 instainfo.py -u (target username) -t (-t for tag scraping)
