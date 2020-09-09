@@ -23,3 +23,8 @@ A simple python tool for getting a information about a instagram user
 - sudo chmod +x *
 - sudo bash install.sh
 -  python3 instainfo.py 
+
+# HOW TO USE THIS TOOL:
+- python3 instainfo.py -h (for help menu)
+- python3 instainfo.py -u (target username) -p (-p for postscraping)
+- python3 instainfo.py -u (target username) -
